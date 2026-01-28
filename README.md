@@ -1,63 +1,153 @@
-# Hey, I'm inngestnyth
+<div align="center">
 
-**Full Stack Developer** | Building modern web applications across SaaS, E-commerce, and Real Estate
+<a href="https://github.com/inngestnyth">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:06B6D4&height=120&section=header&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:06B6D4&height=120&section=header&animation=fadeIn"/>
+  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:06B6D4&height=120&section=header&animation=fadeIn"/>
+</picture>
+</a>
+
+# inngestnyth
+
+**Full Stack Developer • Builder**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/inngestnyth)
+
+</div>
+
+<br>
+
+Experienced **Full Stack Developer** building modern web applications across SaaS, E-commerce, Agency, and Real Estate domains. Specialized in **TypeScript**, **React/Next.js**, **Node.js**, and **Python/AI**, with a focus on clean architecture and scalable solutions.
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2">
+      <b>Featured Projects</b>
+    </td>
+  </tr>
+  <!-- Business Plan Manager -->
+  <tr>
+    <td align="center" width="40%">
+      <br/>
+      <img src="https://img.shields.io/badge/Business_Plan-Manager-3178C6?style=for-the-badge" alt="Business Plan Manager"/>
+      <br/><br/>
+      <b>Business Plan Manager</b>
+      <br/><br/>
+      Full-stack TypeScript application for business plan creation and management. Modern UI with comprehensive planning tools.
+      <br/><br/>
+      <sub>Client: Horst Voelser</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="60%">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+    </td>
+  </tr>
+  <!-- Smith Agency -->
+  <tr>
+    <td align="center" width="40%">
+      <br/>
+      <img src="https://img.shields.io/badge/Smith-Agency-06B6D4?style=for-the-badge" alt="Smith Agency"/>
+      <br/><br/>
+      <b>Agency Operations Suite</b>
+      <br/><br/>
+      Email application and workflow automation tools for agency operations. Integrated with Midday for streamlined business management.
+      <br/><br/>
+    </td>
+    <td align="center" width="60%">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Tech Stack
+## Technical DNA
 
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<div align="center">
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs&perline=4" />
+<br><sub>Languages</sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5" />
+<br><sub>Frontend</sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,redis&perline=3" />
+<br><sub>Databases</sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify&perline=4" />
+<br><sub>Infrastructure & Deployment</sub>
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" />
+<br><sub>Tools & Platforms</sub>
 
-**Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+</div>
 
-**Infrastructure**
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+<br>
 
----
-
-## Featured Projects
-
-### Business Plan Manager
-Client project for business plan creation and management. Full-stack TypeScript application with modern UI.
-
-### Smith Agency
-Email application and workflow automation tools for agency operations. Integrated with Midday for streamlined business management.
-
----
-
-## Experience
-
-| Technology | Years |
-|------------|-------|
-| TypeScript / JavaScript | 3-5 |
-| React / Next.js | 3-5 |
-| Node.js | 3-5 |
-| Python / AI | 3-5 |
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b></td>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><b>Backend & Infra</b></td>
+</tr>
+<tr>
+<td align="center">
+TypeScript (3-5 yrs)<br>
+JavaScript (3-5 yrs)<br>
+Python (3-5 yrs)
+</td>
+<td align="center">
+React / Next.js<br>
+Tailwind CSS<br>
+HTML / CSS
+</td>
+<td align="center">
+Node.js<br>
+PostgreSQL / Supabase<br>
+Docker / Kubernetes
+</td>
+</tr>
+</table>
 
 ---
 
 ## Domains
 
-- **SaaS / Web Apps** - Building scalable software-as-a-service products
-- **E-commerce / Marketplaces** - Online stores and platform development
-- **Agency / Client Work** - Custom solutions for business clients
-- **Real Estate / PropTech** - Property technology solutions
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<b>SaaS / Web Apps</b><br>
+<sub>Building scalable software-as-a-service products</sub>
+</td>
+<td align="center" width="25%">
+<b>E-commerce</b><br>
+<sub>Online stores and marketplace platforms</sub>
+</td>
+<td align="center" width="25%">
+<b>Agency Work</b><br>
+<sub>Custom solutions for business clients</sub>
+</td>
+<td align="center" width="25%">
+<b>Real Estate</b><br>
+<sub>Property technology solutions</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## Connect
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-inngestnyth-181717?style=flat-square&logo=github)](https://github.com/inngestnyth)
+[![GitHub](https://img.shields.io/badge/GitHub-inngestnyth-181717?style=for-the-badge&logo=github)](https://github.com/inngestnyth)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:06B6D4&height=100&section=footer"/>
