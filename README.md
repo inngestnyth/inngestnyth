@@ -38,8 +38,6 @@ Experienced **Full Stack Developer** building modern web applications across Saa
       <br/><br/>
       Full-stack TypeScript application for business plan creation and management. Modern UI with comprehensive planning tools.
       <br/><br/>
-      <sub>Client: Horst Voelser</sub>
-      <br/><br/>
     </td>
     <td align="center" width="60%">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
